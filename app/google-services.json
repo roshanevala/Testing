@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891667920818",
+    "project_id": "authnex-17e99",
+    "storage_bucket": "authnex-17e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891667920818:android:37c9a78632649eb6c7d6ab",
+        "android_client_info": {
+          "package_name": "com.mobile.authnex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891667920818-ra4sef360qml322si7b9g544ourinekk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5OW7j7SRi1rOeo8aXZqQC9SeCBOMJkIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891667920818-ra4sef360qml322si7b9g544ourinekk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

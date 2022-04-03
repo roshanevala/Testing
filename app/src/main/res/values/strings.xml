@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_enroll"><u>Enroll</u></string>
+    <string name="title_login">Login</string>
+    <string name="label_enroll">Enroll</string>
+    <string name="label_password">Password</string>
+    <string name="label_email">Email</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="msg_error_in_getting_data">Error in getting data</string>
+    <string name="msg_sign_in_success">Sign in Success</string>
+    <string name="msg_fill_fields">Please fill out all required fields</string>
+    <string name="msg_authentication_success">Authentication Success</string>
+    <string name="msg_password_not_match">Passwords do not match</string>
+</resources>
